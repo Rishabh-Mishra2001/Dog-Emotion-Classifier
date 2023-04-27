@@ -10,7 +10,6 @@ pip install keras
 
 pip3 install --upgrade tensorflow
 
-pip install tensorflow
 
 # Download Dataset
 https://www.kaggle.com/datasets/devzohaib/dog-emotions-prediction
